@@ -1,0 +1,44 @@
+TASK android.edu.cn.login id=38
+  ACTIVITY android.edu.cn.login/.MainActivity bb5d20 pid=5626
+    Local Activity 30af93c State:
+      mResumed=true mStopped=false mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h659dp 560dpi nrml port finger qwerty/v/v -nav/h s.5}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@40496c5
+        mContainer=android.app.Activity$HostCallbacks@40496c5
+        mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false      mIsAmbientMode=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=3301899 (22845 ms ago)
+    View Hierarchy:
+      DecorView@d42681a[MainActivity]
+        android.widget.LinearLayout{f1a6f4b V.E...... ........ 0,0-1440,2392}
+          android.view.ViewStub{b2c6d28 G.E...... ......I. 0,0-0,0 #10203ef android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{1cda41 V.E...... ........ 0,84-1440,2392 #1020002 android:id/content}
+            android.widget.FrameLayout{60eebe6 V.E...... ........ 0,0-1440,2308}
+              android.support.v4.view.ViewPager{a1eb527 VFED..... ........ 0,0-1440,2308 #7f0b005f app:id/viewPager}
+                android.widget.ImageView{d6f33d4 V.ED..... ......ID 1440,0-2880,2308}
+                android.widget.ImageView{41bd97d V.ED..... ......ID -1440,0-0,2308}
+                android.widget.ImageView{fcde072 V.ED..... ........ 0,0-1440,2308}
+              android.widget.RelativeLayout{f377cc3 V.E...... ........ 0,0-1440,2308}
+                android.widget.Button{475b940 VFED..C.. ........ 565,1755-875,1923 #7f0b0060 app:id/button}
+                android.widget.LinearLayout{c119079 V.E...... ........ 0,2140-1440,2308 #7f0b0061 app:id/viewGroup}
+                  android.widget.ImageView{41591be V.ED..... ........ 397,0-565,168}
+                  android.widget.ImageView{68b221f V.ED..... ........ 575,0-743,168}
+                  android.widget.ImageView{9d296c V.ED..... ........ 753,0-921,168}
+                  android.widget.ImageView{b11bb35 V.ED..... ........ 931,0-1043,112}
+        android.view.View{d950bca V.ED..... ........ 0,0-1440,84 #102002f android:id/statusBarBackground}
+    Looper (main, tid 1) {a49c13b}
+      (Total messages: 0, polling=false, quitting=false)

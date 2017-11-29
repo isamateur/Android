@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Nov 29 09:31:05 CST 2017
+0.baseType=DIRECTORY
+0.base=D\:\\AndroidStudioProjects\\MyApplication\\Login\\app\\build\\intermediates\\assets\\debug
+0.path=litepal.xml
+0.set=ASSET
+count=1

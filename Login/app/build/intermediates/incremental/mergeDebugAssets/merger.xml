@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidStudioProjects\MyApplication\Login\app\src\main\assets"><file name="litepal.xml" path="D:\AndroidStudioProjects\MyApplication\Login\app\src\main\assets\litepal.xml"/></source><source path="D:\AndroidStudioProjects\MyApplication\Login\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\AndroidStudioProjects\MyApplication\Login\app\src\debug\assets"/></dataSet></merger>

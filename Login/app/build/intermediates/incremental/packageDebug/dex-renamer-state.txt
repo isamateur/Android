@@ -1,0 +1,7 @@
+#Tue Nov 28 21:53:59 GMT+08:00 2017
+base.0=C\:\\Users\\StoryBegins\\Desktop\\android\\Login\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f9452498ef18cc01caf9a778fb0896abe4e2b1d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\StoryBegins\\Desktop\\android\\Login\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_79955661c4e95e676228d68f6a8680a2c48f4db2\\classes.dex
+base.1=C\:\\Users\\StoryBegins\\Desktop\\android\\Login\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_79955661c4e95e676228d68f6a8680a2c48f4db2
+file.0=C\:\\Users\\StoryBegins\\Desktop\\android\\Login\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f9452498ef18cc01caf9a778fb0896abe4e2b1d\\classes.dex

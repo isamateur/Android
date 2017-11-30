@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SwipeView.iml" filepath="$PROJECT_DIR$/SwipeView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpspringmenu/jpspringmenu.iml" filepath="$PROJECT_DIR$/jpspringmenu/jpspringmenu.iml" />
     </modules>
   </component>
 </project>
